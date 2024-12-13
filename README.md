@@ -1,14 +1,17 @@
+#stopwatch
 
-Description:
+##Description:
+
 A feature-rich, responsive stopwatch designed with a modern aesthetic. This project is built using HTML, CSS, and JavaScript to ensure seamless performance across devices. The stopwatch includes three functional buttons for starting, stopping, and resetting the timer, making it a perfect tool for learning, tracking events, or integrating into larger projects.
 
-Key Features:
-Stopwatch Functionality:
+##Key Features:
 
-Start Button: Activates the timer, counting elapsed time.
-Stop Button: Pauses the current time count.
-Reset Button: Resets the timer back to 00:00:00.
-Responsive Design:
+###Stopwatch Functionality:
+
+**Start Button:** Activates the timer, counting elapsed time.
+**Stop Button:** Pauses the current time count.
+**Reset Button:** Resets the timer back to 00:00:00.
+##Responsive Design:
 
 (https://github.com/user-attachments/assets/bffe04d2-1068-4414-9afc-f0d2caa1c4fd)
 
