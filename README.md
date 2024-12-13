@@ -1,3 +1,4 @@
+
 #stopwatch
 
 ##Description:
@@ -11,9 +12,10 @@ A feature-rich, responsive stopwatch designed with a modern aesthetic. This proj
 **Start Button:** Activates the timer, counting elapsed time.
 **Stop Button:** Pauses the current time count.
 **Reset Button:** Resets the timer back to 00:00:00.
+
 ##Responsive Design:
 
-(https://github.com/user-attachments/assets/bffe04d2-1068-4414-9afc-f0d2caa1c4fd)
+![stopwatch123](https://github.com/user-attachments/assets/95935638-2b41-4fb4-8aac-59409a029b8a)
 
 Uses modern CSS techniques like media queries and flexbox/grid for adaptability.
 Ensures optimal viewing experience on m mobile, tablet, and desktop screens.
