@@ -25,12 +25,12 @@ A feature-rich, responsive stopwatch designed with a modern aesthetic. This proj
 - Clearly labeled buttons with a clean, user-friendly design.
 - Displays time in an easy-to-read HH:MM:SS format.
 
-  ## Performance Optimization:
+## Performance Optimization:
 
 - Efficient use of JavaScript's setInterval for timing.
 - Includes debounce logic to handle multiple clicks gracefully.
 
-  ## installation
+## installation
 
 Follow this steps to set-up this project locally:
 
@@ -45,10 +45,10 @@ Follow this steps to set-up this project locally:
    ```
 
 3. Open the `index.html` file in your web browser:
-  ```bash
+   ```bash
    Open indext.html
-  ```
+   ```
 
-Alternatively, use a live server extension in your code editor for a better experiences
+   Alternatively, use a live server extension in your code editor for a better experiences
 
 
