@@ -24,7 +24,7 @@ Efficient use of JavaScript's setInterval for timing.
 Includes debounce logic to handle multiple clicks gracefully.
 
 git clone https://github.com/<rinkyess>
-cd advanced-responsive-stopwatch
+cd rinkyess/stopwatch.github
 
 
 
