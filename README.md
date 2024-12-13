@@ -1,5 +1,5 @@
 
-# stopwatch
+# Stopwatch
 
 ## Description:
 
@@ -30,7 +30,7 @@ A feature-rich, responsive stopwatch designed with a modern aesthetic. This proj
 - Efficient use of JavaScript's setInterval for timing.
 - Includes debounce logic to handle multiple clicks gracefully.
 
-## installation
+## Installation:
 
 Follow this steps to set-up this project locally:
 
